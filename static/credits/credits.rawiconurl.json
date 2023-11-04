@@ -1,0 +1,38 @@
+{
+    "contributors": [
+        {
+            "username": "duduskz",
+            "name": "LemonNetwork",
+            "thing": "main-dev",
+            "socialmedia": {
+                "github": "duduskz",
+                "bilibili": {
+                    "uid": 516625063,
+                    "username": "duduskz"
+                }
+            },
+            "icon": "images/duduskz.jpg"
+        },
+        {
+            "username": "Seseren",
+            "name": "Seseren",
+            "thing": "artist",
+            "socialmedia": {
+                "bilibili": {
+                    "uid": 305550122,
+                    "username": "Seseren"
+                }
+            },
+            "icon": "images/Seseren.jpg"
+        },
+        {
+            "username": "duiqt",
+            "name": "Phúc Duy",
+            "thing": "main-dev",
+            "socialmedia": {
+                "github": "duiqt"
+            },
+            "icon": "images/Sduiqt.jpg"
+        }
+    ]
+}
